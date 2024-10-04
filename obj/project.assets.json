@@ -314,11 +314,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\WebScraping\\WebScraping.csproj",
+      "projectUniqueName": "C:\\Users\\olive\\code\\WebScraping\\WebScraping.csproj",
       "projectName": "WebScraping",
-      "projectPath": "C:\\code\\WebScraping\\WebScraping.csproj",
+      "projectPath": "C:\\Users\\olive\\code\\WebScraping\\WebScraping.csproj",
       "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\WebScraping\\obj\\",
+      "outputPath": "C:\\Users\\olive\\code\\WebScraping\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\olive\\AppData\\Roaming\\NuGet\\NuGet.Config"
